@@ -1,0 +1,30 @@
+{
+  "name": "language-dotfiles",
+  "title": "Dotfiles Syntax Highlighting",
+  "description": "Want ShellScript (Bash) syntax highlighting for your dotfiles? You’re damn right you do!",
+  "author": {
+    "name": "Marc Görtz",
+    "email": "git@marcgoertz.de",
+    "url": "https://marcgoertz.de/"
+  },
+  "version": "0.1.0",
+  "keywords": [
+    "dotfiles",
+    "configuration",
+    "grammar",
+    "syntax"
+  ],
+	"homepage": "https://atom.io/packages/language-dotfiles",
+  "repository": {
+		"type": "git",
+		"url": "https://github.com/Dreamseer/language-dotfiles"
+	},
+  "bugs": {
+		"url": "https://github.com/Dreamseer/language-dotfiles/issues"
+	},
+  "license": "MIT",
+  "engines": {
+		"node": "*",
+		"atom": "*"
+  }
+}
