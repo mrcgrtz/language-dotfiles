@@ -1,3 +1,10 @@
+v0.3.0 / 2016-01-11
+===================
+
+* Bump version number.
+* Add dotfiles language settings to fix autocommenting.
+* Add .editorconfig
+
 v0.2.0 / 2016-01-11
 ===================
 
