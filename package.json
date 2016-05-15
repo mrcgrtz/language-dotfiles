@@ -14,17 +14,17 @@
     "grammar",
     "syntax"
   ],
-	"homepage": "https://atom.io/packages/language-dotfiles",
+  "homepage": "https://atom.io/packages/language-dotfiles",
   "repository": {
-		"type": "git",
-		"url": "https://github.com/Dreamseer/language-dotfiles"
-	},
+    "type": "git",
+    "url": "https://github.com/Dreamseer/language-dotfiles"
+  },
   "bugs": {
-		"url": "https://github.com/Dreamseer/language-dotfiles/issues"
-	},
+    "url": "https://github.com/Dreamseer/language-dotfiles/issues"
+  },
   "license": "MIT",
   "engines": {
-		"node": "*",
-		"atom": "*"
+    "node": "*",
+    "atom": "*"
   }
 }
