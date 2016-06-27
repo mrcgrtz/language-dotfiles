@@ -1,3 +1,10 @@
+v0.3.0 / 2016-06-27
+===================
+
+* Bump version number.
+* Update README.md
+* Add support .cshrc (closes #2)
+
 v0.3.0 / 2016-05-15
 ===================
 
