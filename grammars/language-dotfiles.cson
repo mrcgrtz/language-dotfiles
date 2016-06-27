@@ -21,6 +21,7 @@
   'bash_prompt'
   'bashrc'
   'brew'
+  'cshrc'
   'curlrc'
   'editorconfig'
   'env'
