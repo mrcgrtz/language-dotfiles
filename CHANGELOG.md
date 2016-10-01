@@ -1,3 +1,8 @@
+v1.0.0 / 2016-10-01
+===================
+
+* Bump version number. No new features, just making it a “stable” release.
+
 v0.4.1 / 2016-06-27
 ===================
 
