@@ -1,6 +1,6 @@
 {
   "name": "language-dotfiles",
-  "title": "Dotfiles Syntax Highlighting",
+  "title": "Dotfiles Syntax Highlighting for Atom",
   "description": "Want ShellScript (Bash) syntax highlighting for your dotfiles? You’re damn right you do!",
   "author": {
     "name": "Marc Görtz",
@@ -9,6 +9,7 @@
   },
   "version": "1.0.0",
   "keywords": [
+    "atom",
     "dotfiles",
     "configuration",
     "grammar",
