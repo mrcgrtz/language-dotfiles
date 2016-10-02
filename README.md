@@ -1,5 +1,9 @@
 # Dotfiles Syntax Highlighting for Atom
 
+[![apm](https://img.shields.io/apm/dm/language-dotfiles.svg?maxAge=2592000)](https://atom.io/packages/language-dotfiles)
+[![GitHub release](https://img.shields.io/github/release/dreamseer/language-dotfiles.svg?maxAge=2592000)](https://github.com/Dreamseer/language-dotfiles/releases)
+[![license](https://img.shields.io/github/license/dreamseer/language-dotfiles.svg?maxAge=2592000)](https://github.com/Dreamseer/language-dotfiles/blob/master/LICENSE.md)
+
 Want ShellScript (Bash) syntax highlighting for your dotfiles?
 You’re damn right you do!
 
