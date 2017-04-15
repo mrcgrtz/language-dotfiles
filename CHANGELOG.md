@@ -1,3 +1,12 @@
+v1.1.0 / 2017-04-15
+===================
+
+* Bump version number.
+* Add .profile
+* Add .dircolors
+* Add Atom wording and keyword.
+* Add shields.
+
 v1.0.0 / 2016-10-01
 ===================
 
