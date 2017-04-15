@@ -23,6 +23,7 @@
   'brew'
   'cshrc'
   'curlrc'
+  'dircolors'
   'editorconfig'
   'env'
   'envrc'
