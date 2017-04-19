@@ -18,3 +18,7 @@ pull request to make grammar tweaks, etc.
 
 Check [changelog](https://github.com/Dreamseer/language-dotfiles/blob/master/CHANGELOG.md)
 for more information.
+
+## License
+
+MIT © [Marc Görtz](https://marcgoertz.de/)
