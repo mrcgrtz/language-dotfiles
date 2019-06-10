@@ -1,3 +1,13 @@
+v1.2.0 / 2019-06-10
+===================
+
+* Sort keywords for better maintenance.
+* Add .lftprc
+* Add .jsbeautifyrc
+* Add .gitignore_global
+* Add support for more .env files.
+* Update license file to unify licenses across my repos.
+
 v1.1.0 / 2017-04-15
 ===================
 
