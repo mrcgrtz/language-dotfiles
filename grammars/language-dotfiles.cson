@@ -46,6 +46,7 @@
   'gitattributes'
   'gitconfig'
   'gitignore'
+  'gitignore_global'
   'gitmodules'
   'hushlogin'
   'inputrc'
