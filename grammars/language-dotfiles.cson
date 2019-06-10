@@ -50,6 +50,7 @@
   'gitmodules'
   'hushlogin'
   'inputrc'
+  'jsbeautifyrc'
   'jshintignore'
   'npmignore'
   'npmrc'
