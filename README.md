@@ -1,5 +1,7 @@
 # Dotfiles Syntax Highlighting for Atom
 
+:city_sunset: **I will archive this repository on December 15, 2022, as GitHub [announced Atom’s sunset](https://github.blog/2022-06-08-sunsetting-atom/) for this date.**
+
 [![apm](https://img.shields.io/apm/dm/language-dotfiles.svg?maxAge=2592000)](https://atom.io/packages/language-dotfiles)
 [![GitHub release](https://img.shields.io/github/release/mrcgrtz/language-dotfiles.svg?maxAge=2592000)](https://github.com/mrcgrtz/language-dotfiles/releases)
 [![license](https://img.shields.io/github/license/mrcgrtz/language-dotfiles.svg?maxAge=2592000)](https://github.com/mrcgrtz/language-dotfiles/blob/main/LICENSE.md)
